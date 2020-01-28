@@ -1,2 +1,3 @@
 # clean-project
-<h1> Clean Project Gulp, SCSS, PUG with the include and extends!</h1>
+<h1>Пустой стартовый шаблон для вёрстки.</h1>
+<span>В него включены GULP, PUG, SCSS и чистая разметка для удобства работы с PUG.</span> 
